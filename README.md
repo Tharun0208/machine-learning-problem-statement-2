@@ -1,4 +1,4 @@
-![Screenshot 2024-11-09 093527](https://github.com/user-attachments/assets/587b89b8-564d-4396-bd00-cf66ffc97d35)## PROBLEM STATEMENT - 2
+## PROBLEM STATEMENT - 2
 # AI-Driven Dynamic Public Transportation Scheduler
 
 Efficiently managing public transportation in urban areas is a significant challenge, especially with fluctuating commuter demand, traffic variations, and unexpected events. This project aims to develop an AI-driven platform that autonomously schedules and dispatches public transport vehicles, ensuring dynamic adaptability and optimized efficiency.
