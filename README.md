@@ -1,4 +1,4 @@
-## PROBLEM STATEMENT - 2
+![Screenshot 2024-11-09 093527](https://github.com/user-attachments/assets/587b89b8-564d-4396-bd00-cf66ffc97d35)## PROBLEM STATEMENT - 2
 # AI-Driven Dynamic Public Transportation Scheduler
 
 Efficiently managing public transportation in urban areas is a significant challenge, especially with fluctuating commuter demand, traffic variations, and unexpected events. This project aims to develop an AI-driven platform that autonomously schedules and dispatches public transport vehicles, ensuring dynamic adaptability and optimized efficiency.
@@ -311,14 +311,6 @@ Develop an AI-based platform that autonomously manages the scheduling, routing, 
 3. **Optimization of Dispatching**  
    - Maximize vehicle utilization by balancing commuter loads, reducing underutilized runs, and minimizing commuter wait times.
    - Reduce congestion and ensure equitable coverage across urban regions.
-![Screenshot 2024-11-09 064319](https://github.com/user-attachments/assets/6aa287c7-d090-4568-8b2e-871726d32477)
-![Screenshot 2024-11-09 064717](https://github.com/user-attachments/assets/3ead5b90-8f21-405a-acdf-c3e092f6a9d4)
-![Screenshot 2024-11-09 064933](https://github.com/user-attachments/assets/fd10c07b-7735-42f9-879f-944c94633ee0)
-![Screenshot 2024-11-09 065116](https://github.com/user-attachments/assets/1498066f-e4a5-49ea-bb82-8695a0a59c23)
-![Screenshot 2024-11-09 065454](https://github.com/user-attachments/assets/179f8b87-ad1b-4b5f-9229-d69b04244c30)
-![Screenshot 2024-11-09 065627](https://github.com/user-attachments/assets/67dba7a6-3d55-42f9-bf00-7771de1735cb)
-
-
 
 
 
@@ -330,11 +322,25 @@ Develop an AI-based platform that autonomously manages the scheduling, routing, 
 
 ## Key Features
 
-- **Real-Time Data Integration:** Incorporates traffic data, commuter density, and event information to make data-driven decisions.
-- **Predictive Analytics for Demand Forecasting:** Utilizes machine learning algorithms for accurate demand predictions.
-- **Adaptive Scheduling & Routing:** Uses AI algorithms to adjust vehicle deployment and routes dynamically.
-- **Event Awareness:** Automatically adjusts based on both scheduled (e.g., concerts) and unexpected events (e.g., road closures).
-- **Optimization Engine:** Ensures optimal vehicle dispatching to balance demand and minimize commuter wait times.
+-**LSTM-Based Time Series Forecasting:
+Purpose: Predicts traffic patterns by analyzing historical traffic data over time.
+-**Description: LSTM networks, a type of RNN, are ideal for sequential data like traffic volume. They learn from past patterns (e.g., rush-hour peaks) to accurately predict future congestion levels
 
 ---
-### Note: This serves only as a reference example. Innovative ideas and unique implementation techniques are highly encouraged and warmly welcomed!
+##OUTPUT
+
+![Screenshot 2024-11-09 093805](https://github.com/user-attachments/assets/fc442efc-faf5-453b-ad56-69938b0adbee)
+![Screenshot 2024-11-09 093837](https://github.com/user-attachments/assets/6cf6e3a1-bda7-4a39-a9a4-53886cf79d3a)
+![Screenshot 2024-11-09 093859](https://github.com/user-attachments/assets/f50e68cc-fbd4-4d71-82dd-45d288cd7000)
+![Screenshot 2024-11-09 093920](https://github.com/user-attachments/assets/ddc217d3-4de7-4214-bbab-5a71cddf63e4)
+![Screenshot 2024-11-09 093948](https://github.com/user-attachments/assets/8a3fb611-c903-41bf-8f11-13d2a32274b0)
+![Screenshot 2024-11-09 094011](https://github.com/user-attachments/assets/2f24e63f-1ad8-45cc-b7d3-e11d26f05851)
+![Screenshot 2024-11-09 094028](https://github.com/user-attachments/assets/b96b95cc-8667-4459-a02e-cb09ead80eb4)
+![Screenshot 2024-11-09 094041](https://github.com/user-attachments/assets/8b70f9c5-0fae-4918-bd9b-80cc14d11b8d)
+![Screenshot 2024-11-09 094131](https://github.com/user-attachments/assets/ad54e8cd-04f0-468c-bd2b-6c3cb8b835a1)
+![Screenshot 2024-11-09 094202](https://github.com/user-attachments/assets/e05e73af-40c1-43a9-887f-3f9096948d62)
+
+
+
+
+
